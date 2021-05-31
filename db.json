@@ -2084,6 +2084,7 @@
       "productID": 1,
       "categoryID": "1",
       "categoryCode": "dien-thoai",
+      "pageTitle": "Samsung Galaxy Zfold2 - Đẳng cấp của một công nghệ",
       "productName": "Samsung galaxy ZFold2",
       "productCode": "samsung-galaxy-zfold2",
       "normalPrice": 50000000,
@@ -3180,6 +3181,138 @@
       ]
     },
     {
+      "productID": 15,
+      "categoryID": "2",
+      "categoryCode": "laptop",
+      "pageTitle": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB, ưu đãi đặc biệt",
+      "productName": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB",
+      "productCode": "macbook-pro-16-2019-touch-bar-2-3GHZ-core-i9-1tb",
+      "normalPrice": 69900000,
+      "discountPrice": 0,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fmacbook-pro-16.png?alt=media&token=b88cbca1-9c37-44a5-9e31-7bafc324a186",
+      "countDownTime": "",
+      "specialOffers": [
+        {
+          "offerID": "1",
+          "offerContent": "Trả góp 0%",
+          "offerType": "badge--installment",
+          "productID": ""
+        },
+        {
+          "offerID": "3",
+          "offerContent": "Voucher 2%",
+          "offerType": "badge--voucher",
+          "productID": ""
+        }
+      ],
+      "shortDesc": [
+        {
+          "descID": "5",
+          "descTitle": "Màn hình",
+          "descContent": "16.0\""
+        },
+        {
+          "descID": "9",
+          "descTitle": "CPU",
+          "descContent": "Core i9"
+        },
+        {
+          "descID": "8",
+          "descTitle": "RAM",
+          "descContent": "16GB"
+        },
+        {
+          "descID": "5",
+          "descTitle": "Bộ nhớ trong",
+          "descContent": "SSD 1TB"
+        },
+        {
+          "descID": "8",
+          "descTitle": "Card đồ họa",
+          "descContent": "Radeon Pro 5500M 4GB"
+        },
+        {
+          "descID": "8",
+          "descTitle": "Trọng lượng (kg)",
+          "descContent": "2.0"
+        }
+      ],
+      "specifications": [
+        {
+          "specID": "1",
+          "specTitle": "CPU",
+          "specContent": "Intel Core i9-9th-gen"
+        },
+        {
+          "specID": "2",
+          "specTitle": "RAM",
+          "specContent": "16 GB, DDR4, 2666 MHz"
+        },
+        {
+          "specID": "3",
+          "specTitle": "Màn hình",
+          "specContent": "16.0\", 3072 x 1920 Pixel, IPS, IPS LCD LED Backlit, True Tone"
+        },
+        {
+          "specID": "4",
+          "specTitle": "Đồ họa",
+          "specContent": "AMD Radeon Pro 5500M 4 GB & Intel UHD Graphics 630s"
+        },
+        {
+          "specID": "5",
+          "specTitle": "Ổ cứng",
+          "specContent": "SSD 1 TB"
+        },
+        {
+          "specID": "6",
+          "specTitle": "Hệ điều hành",
+          "specContent": "Mac OS"
+        },
+        {
+          "specID": "7",
+          "specTitle": "Trọng lượng (kg)",
+          "specContent": "2.0"
+        },
+        {
+          "specID": "8",
+          "specTitle": "Kích thước (mm)",
+          "specContent": "357.9 x 24.59 x 16.2"
+        },
+        {
+          "specID": "11",
+          "specTitle": "Xuất xứ",
+          "specContent": "Trung Quốc"
+        },
+        {
+          "specID": "12",
+          "specTitle": "Thời gian ra mắt",
+          "specContent": "2019"
+        }
+      ],
+      "specificationImages": [
+        {
+          "imageID": "1",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec01.png?alt=media&token=9af7f4e3-2a2b-485b-b94a-c345817a9593",
+          "productID": ""
+        },
+        {
+          "imageID": "2",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec02.png?alt=media&token=1528a2b9-24f5-487c-a1a0-1d41ac0520ca",
+          "productID": ""
+        },
+        {
+          "imageID": "3",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec03.png?alt=media&token=283a9419-67eb-47be-981a-84a910b66d4a",
+          "productID": ""
+        },
+        {
+          "imageID": "4",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec04.png?alt=media&token=664a8608-ecf0-4262-aab9-ec0b3850a871",
+          "productID": ""
+        }
+      ]
+    },
+    {
       "productID": 9,
       "categoryID": "2",
       "categoryCode": "laptop",
@@ -3963,137 +4096,6 @@
       ]
     },
     {
-      "productID": 15,
-      "categoryID": "2",
-      "categoryCode": "laptop",
-      "productName": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB",
-      "productCode": "macbook-pro-16-2019-touch-bar-2-3GHZ-core-i9-1tb",
-      "normalPrice": 69900000,
-      "discountPrice": 0,
-      "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fmacbook-pro-16.png?alt=media&token=b88cbca1-9c37-44a5-9e31-7bafc324a186",
-      "countDownTime": "",
-      "specialOffers": [
-        {
-          "offerID": "1",
-          "offerContent": "Trả góp 0%",
-          "offerType": "badge--installment",
-          "productID": ""
-        },
-        {
-          "offerID": "3",
-          "offerContent": "Voucher 2%",
-          "offerType": "badge--voucher",
-          "productID": ""
-        }
-      ],
-      "shortDesc": [
-        {
-          "descID": "5",
-          "descTitle": "Màn hình",
-          "descContent": "16.0\""
-        },
-        {
-          "descID": "9",
-          "descTitle": "CPU",
-          "descContent": "Core i9"
-        },
-        {
-          "descID": "8",
-          "descTitle": "RAM",
-          "descContent": "16GB"
-        },
-        {
-          "descID": "5",
-          "descTitle": "Bộ nhớ trong",
-          "descContent": "SSD 1TB"
-        },
-        {
-          "descID": "8",
-          "descTitle": "Card đồ họa",
-          "descContent": "Radeon Pro 5500M 4GB"
-        },
-        {
-          "descID": "8",
-          "descTitle": "Trọng lượng (kg)",
-          "descContent": "2.0"
-        }
-      ],
-      "specifications": [
-        {
-          "specID": "1",
-          "specTitle": "CPU",
-          "specContent": "Intel Core i9-9th-gen"
-        },
-        {
-          "specID": "2",
-          "specTitle": "RAM",
-          "specContent": "16 GB, DDR4, 2666 MHz"
-        },
-        {
-          "specID": "3",
-          "specTitle": "Màn hình",
-          "specContent": "16.0\", 3072 x 1920 Pixel, IPS, IPS LCD LED Backlit, True Tone"
-        },
-        {
-          "specID": "4",
-          "specTitle": "Đồ họa",
-          "specContent": "AMD Radeon Pro 5500M 4 GB & Intel UHD Graphics 630s"
-        },
-        {
-          "specID": "5",
-          "specTitle": "Ổ cứng",
-          "specContent": "SSD 1 TB"
-        },
-        {
-          "specID": "6",
-          "specTitle": "Hệ điều hành",
-          "specContent": "Mac OS"
-        },
-        {
-          "specID": "7",
-          "specTitle": "Trọng lượng (kg)",
-          "specContent": "2.0"
-        },
-        {
-          "specID": "8",
-          "specTitle": "Kích thước (mm)",
-          "specContent": "357.9 x 24.59 x 16.2"
-        },
-        {
-          "specID": "11",
-          "specTitle": "Xuất xứ",
-          "specContent": "Trung Quốc"
-        },
-        {
-          "specID": "12",
-          "specTitle": "Thời gian ra mắt",
-          "specContent": "2019"
-        }
-      ],
-      "specificationImages": [
-        {
-          "imageID": "1",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec01.png?alt=media&token=9af7f4e3-2a2b-485b-b94a-c345817a9593",
-          "productID": ""
-        },
-        {
-          "imageID": "2",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec02.png?alt=media&token=1528a2b9-24f5-487c-a1a0-1d41ac0520ca",
-          "productID": ""
-        },
-        {
-          "imageID": "3",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec03.png?alt=media&token=283a9419-67eb-47be-981a-84a910b66d4a",
-          "productID": ""
-        },
-        {
-          "imageID": "4",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmacbook-pro-16-spec04.png?alt=media&token=664a8608-ecf0-4262-aab9-ec0b3850a871",
-          "productID": ""
-        }
-      ]
-    },
-    {
       "productID": 16,
       "categoryID": "2",
       "categoryCode": "laptop",
@@ -4230,6 +4232,168 @@
         {
           "imageID": "5",
           "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fmicrosoft-surface-pro-7-spec06.png?alt=media&token=c0d0b242-0abd-41ea-b80c-147220fe4e10",
+          "productID": ""
+        }
+      ]
+    },
+    {
+      "productID": 23,
+      "categoryID": "3",
+      "categoryCode": "may-tinh-bang",
+      "pageTitle": "iPad Pro 12.9 2020 Wifi 1TB, nhỏ gọn, sang trọng",
+      "productName": "iPad Pro 12.9 2020 WI-FI 1TB",
+      "productCode": "ipad-pro-12-9-2020-wifi-1tb",
+      "normalPrice": 47990000,
+      "discountPrice": 45990000,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fipad-pro-12-9-2020-wifi.png?alt=media&token=e5c82623-876d-40bb-af2b-564548945f38",
+      "countDownTime": "",
+      "specialOffers": [
+        {
+          "offerID": "1",
+          "offerContent": "Trả góp 0%",
+          "offerType": "badge--installment",
+          "productID": ""
+        },
+        {
+          "offerID": "2",
+          "offerContent": "Tặng phụ kiện",
+          "offerType": "badge--special-offer",
+          "productID": ""
+        }
+      ],
+      "shortDesc": [
+        {
+          "descID": "5",
+          "descTitle": "CPU",
+          "descContent": "A12Z Bionic"
+        },
+        {
+          "descID": "5",
+          "descTitle": "Màn hình",
+          "descContent": "12.9\""
+        },
+        {
+          "descID": "8",
+          "descTitle": "RAM",
+          "descContent": "6GB"
+        },
+        {
+          "descID": "5",
+          "descTitle": "Bộ nhớ trong",
+          "descContent": "1T"
+        },
+        {
+          "descID": "8",
+          "descTitle": "Dung lượng pin",
+          "descContent": "9720 mAh"
+        }
+      ],
+      "specifications": [
+        {
+          "specID": "1",
+          "specTitle": "Màn hình",
+          "specContent": "12.9\" , Liquid Retina HD , IPS LCD , 2732 x 2048 Pixel"
+        },
+        {
+          "specID": "2",
+          "specTitle": "Camera sau",
+          "specContent": "10.0 MP + 12.0 MP"
+        },
+        {
+          "specID": "3",
+          "specTitle": "Camera selfie",
+          "specContent": "7.0 MP"
+        },
+        {
+          "specID": "4",
+          "specTitle": "RAM",
+          "specContent": "6GB"
+        },
+        {
+          "specID": "5",
+          "specTitle": "Bộ nhớ trong",
+          "specContent": "512GB"
+        },
+        {
+          "specID": "6",
+          "specTitle": "CPU",
+          "specContent": "A12Z Bionic"
+        },
+        {
+          "specID": "7",
+          "specTitle": "GPU",
+          "specContent": "Apple GPU 7 nhân"
+        },
+        {
+          "specID": "8",
+          "specTitle": "Dung lượng pin",
+          "specContent": "9720 mAh"
+        },
+        {
+          "specID": "9",
+          "specTitle": "Thẻ sim",
+          "specContent": "0"
+        },
+        {
+          "specID": "10",
+          "specTitle": "Hệ điều hành",
+          "specContent": "iPadOS"
+        },
+        {
+          "specID": "11",
+          "specTitle": "Xuất xứ",
+          "specContent": "Trung Quốc"
+        },
+        {
+          "specID": "12",
+          "specTitle": "Thời gian ra mắt",
+          "specContent": "03/2020"
+        }
+      ],
+      "specificationImages": [
+        {
+          "imageID": "1",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec01.png?alt=media&token=1447e8b6-1649-4f71-bf46-eaee054c074c",
+          "productID": ""
+        },
+        {
+          "imageID": "2",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec02.png?alt=media&token=4d01ce31-6f28-4cad-af06-59481872ee9a",
+          "productID": ""
+        },
+        {
+          "imageID": "3",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec03.png?alt=media&token=2327c64f-ea33-492a-b0c0-7a1abb54177d",
+          "productID": ""
+        },
+        {
+          "imageID": "4",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec04.png?alt=media&token=6adee12a-751d-4db6-bdfc-014650283367",
+          "productID": ""
+        },
+        {
+          "imageID": "5",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec05.png?alt=media&token=9fa1144f-70d3-46b8-939b-be9393ed821c",
+          "productID": ""
+        },
+        {
+          "imageID": "6",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec06.png?alt=media&token=f4ec8154-c52e-499d-8974-653f1fe70141",
+          "productID": ""
+        },
+        {
+          "imageID": "7",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec07.png?alt=media&token=e6ca9287-1bea-48bf-96b4-0925dcb0a47f",
+          "productID": ""
+        },
+        {
+          "imageID": "8",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec08.png?alt=media&token=6338f8c5-e3d2-4c0a-9ae0-3796e9f3fc8a",
+          "productID": ""
+        },
+        {
+          "imageID": "9",
+          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec09.png?alt=media&token=af343e70-078a-40ba-a7fa-8e0b5553966c",
           "productID": ""
         }
       ]
@@ -5074,167 +5238,6 @@
       ]
     },
     {
-      "productID": 23,
-      "categoryID": "3",
-      "categoryCode": "may-tinh-bang",
-      "productName": "iPad Pro 12.9 2020 WI-FI 1TB",
-      "productCode": "ipad-pro-12-9-2020-wifi-1tb",
-      "normalPrice": 47990000,
-      "discountPrice": 45990000,
-      "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fipad-pro-12-9-2020-wifi.png?alt=media&token=e5c82623-876d-40bb-af2b-564548945f38",
-      "countDownTime": "",
-      "specialOffers": [
-        {
-          "offerID": "1",
-          "offerContent": "Trả góp 0%",
-          "offerType": "badge--installment",
-          "productID": ""
-        },
-        {
-          "offerID": "2",
-          "offerContent": "Tặng phụ kiện",
-          "offerType": "badge--special-offer",
-          "productID": ""
-        }
-      ],
-      "shortDesc": [
-        {
-          "descID": "5",
-          "descTitle": "CPU",
-          "descContent": "A12Z Bionic"
-        },
-        {
-          "descID": "5",
-          "descTitle": "Màn hình",
-          "descContent": "12.9\""
-        },
-        {
-          "descID": "8",
-          "descTitle": "RAM",
-          "descContent": "6GB"
-        },
-        {
-          "descID": "5",
-          "descTitle": "Bộ nhớ trong",
-          "descContent": "1T"
-        },
-        {
-          "descID": "8",
-          "descTitle": "Dung lượng pin",
-          "descContent": "9720 mAh"
-        }
-      ],
-      "specifications": [
-        {
-          "specID": "1",
-          "specTitle": "Màn hình",
-          "specContent": "12.9\" , Liquid Retina HD , IPS LCD , 2732 x 2048 Pixel"
-        },
-        {
-          "specID": "2",
-          "specTitle": "Camera sau",
-          "specContent": "10.0 MP + 12.0 MP"
-        },
-        {
-          "specID": "3",
-          "specTitle": "Camera selfie",
-          "specContent": "7.0 MP"
-        },
-        {
-          "specID": "4",
-          "specTitle": "RAM",
-          "specContent": "6GB"
-        },
-        {
-          "specID": "5",
-          "specTitle": "Bộ nhớ trong",
-          "specContent": "512GB"
-        },
-        {
-          "specID": "6",
-          "specTitle": "CPU",
-          "specContent": "A12Z Bionic"
-        },
-        {
-          "specID": "7",
-          "specTitle": "GPU",
-          "specContent": "Apple GPU 7 nhân"
-        },
-        {
-          "specID": "8",
-          "specTitle": "Dung lượng pin",
-          "specContent": "9720 mAh"
-        },
-        {
-          "specID": "9",
-          "specTitle": "Thẻ sim",
-          "specContent": "0"
-        },
-        {
-          "specID": "10",
-          "specTitle": "Hệ điều hành",
-          "specContent": "iPadOS"
-        },
-        {
-          "specID": "11",
-          "specTitle": "Xuất xứ",
-          "specContent": "Trung Quốc"
-        },
-        {
-          "specID": "12",
-          "specTitle": "Thời gian ra mắt",
-          "specContent": "03/2020"
-        }
-      ],
-      "specificationImages": [
-        {
-          "imageID": "1",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec01.png?alt=media&token=1447e8b6-1649-4f71-bf46-eaee054c074c",
-          "productID": ""
-        },
-        {
-          "imageID": "2",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec02.png?alt=media&token=4d01ce31-6f28-4cad-af06-59481872ee9a",
-          "productID": ""
-        },
-        {
-          "imageID": "3",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec03.png?alt=media&token=2327c64f-ea33-492a-b0c0-7a1abb54177d",
-          "productID": ""
-        },
-        {
-          "imageID": "4",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec04.png?alt=media&token=6adee12a-751d-4db6-bdfc-014650283367",
-          "productID": ""
-        },
-        {
-          "imageID": "5",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec05.png?alt=media&token=9fa1144f-70d3-46b8-939b-be9393ed821c",
-          "productID": ""
-        },
-        {
-          "imageID": "6",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec06.png?alt=media&token=f4ec8154-c52e-499d-8974-653f1fe70141",
-          "productID": ""
-        },
-        {
-          "imageID": "7",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec07.png?alt=media&token=e6ca9287-1bea-48bf-96b4-0925dcb0a47f",
-          "productID": ""
-        },
-        {
-          "imageID": "8",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec08.png?alt=media&token=6338f8c5-e3d2-4c0a-9ae0-3796e9f3fc8a",
-          "productID": ""
-        },
-        {
-          "imageID": "9",
-          "imageLink": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSpecification%20Image%2Fipad-pro-12-9-2020-wifi-spec09.png?alt=media&token=af343e70-078a-40ba-a7fa-8e0b5553966c",
-          "productID": ""
-        }
-      ]
-    },
-    {
       "productID": 24,
       "categoryID": "3",
       "categoryCode": "may-tinh-bang",
@@ -5491,6 +5494,7 @@
         "productID": 1,
         "categoryID": "1",
         "categoryCode": "dien-thoai",
+        "pageTitle": "Samsung Galaxy Zfold2 - Đẳng cấp của một công nghệ",
         "productName": "Samsung galaxy ZFold2",
         "productCode": "samsung-galaxy-zfold2",
         "normalPrice": 50000000,
@@ -6620,6 +6624,7 @@
         "productID": 15,
         "categoryID": "2",
         "categoryCode": "laptop",
+        "pageTitle": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB, ưu đãi đặc biệt",
         "productName": "MacBook Pro 16 2019 Touch Bar 2.3GHz Core i9 1TB",
         "productCode": "macbook-pro-16-2019-touch-bar-2-3GHZ-core-i9-1tb",
         "normalPrice": 69900000,
@@ -7738,6 +7743,7 @@
         "productID": 23,
         "categoryID": "3",
         "categoryCode": "may-tinh-bang",
+        "pageTitle": "iPad Pro 12.9 2020 Wifi 1TB, nhỏ gọn, sang trọng",
         "productName": "iPad Pro 12.9 2020 WI-FI 1TB",
         "productCode": "ipad-pro-12-9-2020-wifi-1tb",
         "normalPrice": 47990000,
