@@ -1,0 +1,17 @@
+{
+  "name": "products_api",
+  "version": "1.0.0",
+  "description": "product api for TechShop Ecommerce",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Vinh Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
