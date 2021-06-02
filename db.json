@@ -1575,7 +1575,7 @@
     {
       "slideBannerID": "3",
       "slideBannerImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FSlide%20Banner%2Fslideshow03.png?alt=media&token=2255e158-42f1-413f-97b5-426d7f1e95d6",
-      "slideBannerTitle": "Đồ dùng thông minh Xiaomi GIÁ TỐT"
+      "slideBannerTitle": "Đồ dùng thông minh Xiaomi giá tốt"
     },
     {
       "slideBannerID": "4",
@@ -1595,8 +1595,8 @@
   ],
   "technologyNew": {
     "newID": "1",
-    "newContent": "Ấn tượng đầu tiên Xiaomi Redmi Note 10 Pro Max: Nổi bật với camera chính lên đến 108MP viên pin lớn 5.020mAh xài cả ngày",
-    "createTime": "3/5/2021 22:35:27",
+    "newContent": "Nhận ngay gói Microsoft 365 Personal khi chọn mua Galaxy Tab S7 tại FPT Shop",
+    "createTime": "2/6/2021 18:30:00",
     "newImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FNew%20Technology%2Ftechnology-new.png?alt=media&token=aea1c2c0-4b52-4da4-991b-c846c2daaaf8"
   },
   "homeTwoBanners": [
@@ -1616,7 +1616,7 @@
       "normalPrice": 28990000,
       "discountPrice": 26990000,
       "mainImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fsamsung-s21-ultra-01.png?alt=media&token=cbb8a189-4e2a-489c-977a-0a1a48da7e24",
-      "countDownTime": "5/29/2021 18:23:27",
+      "countDownTime": "6/4/2021 18:23:27",
       "specialOffers": [
         {
           "offerID": "1",
@@ -1644,7 +1644,7 @@
       "normalPrice": 7990000,
       "discountPrice": 7350000,
       "mainImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Foppo-reno5-01.png?alt=media&token=cdef7079-4df9-4bf8-9934-156425ddd468",
-      "countDownTime": "5/28/2021 23:35:27",
+      "countDownTime": "6/5/2021 23:35:27",
       "specialOffers": [
         {
           "offerID": "1",
@@ -10489,15 +10489,6 @@
           "isDisplayFirst": false
         },
         {
-          "specID": "61",
-          "specTitle": "Hỗ trợ OTG",
-          "specTitle2": "Hỗ trợ OTG",
-          "specContent": "Có",
-          "groupName": "Giao tiếp & Kết nối",
-          "isShowInTable": false,
-          "isDisplayFirst": false
-        },
-        {
           "specID": "62",
           "specTitle": "Hệ điều hành",
           "specTitle2": "Version",
@@ -10740,7 +10731,7 @@
             },
             {
               "id": 2,
-              "commentCustomer": "Máy không phải bán thận hay cầm cố nhà đất nữa chỉ cắm sổ đỏ thui",
+              "commentCustomer": "Chắc phải cầm cố sổ đỏ vì nó quá, mê chết đi được",
               "dateCreate": "5/5/2021 7:30:27",
               "nameCustomer": "Long",
               "rateStar": 3,
