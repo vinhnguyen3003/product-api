@@ -1664,6 +1664,10 @@
   "topDiscountProducts": [
     {
       "productID": 5,
+      "categoryID": "1",
+      "categoryCode": "dien-thoai",
+      "productCode": "samsung-galaxy-zfold2",
+      "pageTitle": "Samsung Galaxy Zfold2 - Đẳng cấp của một công nghệ",
       "productName": "Samsung galaxy ZFold2",
       "normalPrice": 50000000,
       "discountPrice": 49000000,
@@ -1714,6 +1718,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "2",
+      "categoryCode": "laptop",
+      "productCode": "laptop-asus-gaming-rog-strix-g512-ihn28it",
+      "pageTitle": "Asus Gaming ROG Strix G512-IHN281T - Cỗ máy hạng trung cho mọi game thủ",
       "productName": "Laptop Asus Gaming ROG Strix G512-IHN281T",
       "normalPrice": 28990000,
       "discountPrice": 26990000,
@@ -1768,6 +1776,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "1",
+      "categoryCode": "dien-thoai",
+      "productCode": "oppo-a93-8gb-128gb",
+      "pageTitle": "Oppo A93 8GB - 128GB - Giảm giá cực sốc",
       "productName": "Oppo A93 8GB - 128GB",
       "normalPrice": 6490000,
       "discountPrice": 6300000,
@@ -1812,6 +1824,10 @@
     },
     {
       "productID": 5,
+      "categoryID": "1",
+      "categoryCode": "dien-thoai",
+      "productCode": "xiaomi-mi-11-5g-8gb-128gb",
+      "pageTitle": "Xiaomi Mi 11 5G - Sang trọng, mạnh mẽ",
       "productName": "Xiaomi Mi 11 5G 8GB - 128GB",
       "normalPrice": 21990000,
       "discountPrice": 21000000,
@@ -1862,6 +1878,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "1",
+      "categoryCode": "dien-thoai",
+      "productCode": "xiaomi-mi-10t-lite-5g-6gb-128gb",
+      "pageTitle": "Xiaomi Mi 10T Lite 5G - Giá rẻ nhất thị trường",
       "productName": "Xiaomi Mi 10T Lite 5G 6GB - 128GB",
       "normalPrice": 6990000,
       "discountPrice": 6800000,
@@ -1906,6 +1926,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "2",
+      "categoryCode": "laptop",
+      "productCode": "laptop-acer-aspire-a315-57g-31yd-i2-1005g1",
+      "pageTitle": "Acer Aspire A315 - Giá giảm cực sốc",
       "productName": "Laptop Acer Aspire A315 57G 31YD i3 1005G1",
       "normalPrice": 11990000,
       "discountPrice": 10791000,
@@ -1966,6 +1990,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "2",
+      "categoryCode": "laptop",
+      "productCode": "laptop-acer-nitro-5-an515-55-5923",
+      "pageTitle": "Acer Nitro 5 - Mạnh mẽ và sang trọng",
       "productName": "Laptop Acer Nitro 5 AN515 55 5923",
       "normalPrice": 21990000,
       "discountPrice": 19700000,
@@ -2020,6 +2048,10 @@
     },
     {
       "productID": 8,
+      "categoryID": "2",
+      "categoryCode": "laptop",
+      "productCode": "laptop-hp-15s-fq1109tu",
+      "pageTitle": "HP 15s fq1109TU - Giá giảm cực sốc",
       "productName": "Laptop HP 15s fq1109TU",
       "normalPrice": 12290000,
       "discountPrice": 11290000,
