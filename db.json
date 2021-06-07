@@ -9572,6 +9572,7 @@
       "groupImageClassifys": [
         {
           "groupImageClassifyID": "2",
+          "groupImageClassifyName": "Hãng sản xuất",
           "categoryID": "2",
           "groupImageContent": [
             {
@@ -9790,6 +9791,7 @@
       "groupImageClassifys": [
         {
           "groupImageClassifyID": "3",
+          "groupImageClassifyName": "Hãng sản xuất",
           "categoryID": "3",
           "groupImageContent": [
             {
