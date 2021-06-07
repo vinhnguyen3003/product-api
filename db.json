@@ -4998,7 +4998,7 @@
       "productName": "iPad Air 10.9 2020 Wi-Fi + Cellular 64GB",
       "productCode": "ipad-air-10-9-2020-wifi-+-cellular-64gb",
       "normalPrice": 20990000,
-      "discountPrice": 20990000,
+      "discountPrice": 0,
       "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fipad-air-10-9-2020.png?alt=media&token=33cbaa86-19a8-4a68-a123-449a789f4547",
       "countDownTime": "",
       "specialOffers": [
@@ -8496,7 +8496,7 @@
         "categoryCode": "may-tinh-bang",
         "productName": "iPad Air 10.9 2020 Wi-Fi + Cellular 64GB",
         "normalPrice": 20990000,
-        "discountPrice": 20990000,
+        "discountPrice": 0,
         "productImage": "https://firebasestorage.googleapis.com/v0/b/techshop-website.appspot.com/o/images%2FProduct%2Fipad-air-10-9-2020.png?alt=media&token=33cbaa86-19a8-4a68-a123-449a789f4547",
         "countDownTime": "",
         "specialOffers": [
